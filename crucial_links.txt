@@ -1,0 +1,2 @@
+1) YouTube Setup Tutorial: https://www.youtube.com/watch?v=UJ1uEdPCeNw
+2) Bitcraze official github repository: https://github.com/bitcraze/crazyflie-lib-python
